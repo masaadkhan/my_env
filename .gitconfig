@@ -1,0 +1,11 @@
+[user]
+  name = Masaad Khan
+  email = masaadkhan123@gmail.com
+  username = masaadkhan
+[alias]
+  st = status
+  suno = status -uno
+  lol = log --oneline
+  co = checkout
+  br = branch
+
